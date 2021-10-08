@@ -1,0 +1,9 @@
+.idea/
+output/
+build/
+**/__pycache__/
+**/*.c
+**/*cpython-*.so
+data/network.graphml
+data/network.pickle
+data/tracks.pickle
