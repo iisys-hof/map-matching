@@ -1,5 +1,8 @@
 ## Map Matching with Markov Decision Processes \[Proof of concept\]
 
+*This repository is deprecated. Please view [Map Matching 2](https://github.com/iisys-hof/map-matching-2) for the
+successor.*
+
 Here are provided some example scripts for map matching with markov decision processes and reinforcement learning
 algorithms.
 
